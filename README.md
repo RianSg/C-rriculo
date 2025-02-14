@@ -1,2 +1,2 @@
-# C-rriculo
+# Curriculo
 Cúrriculo HTML
